@@ -4,7 +4,7 @@ This repository contains a detailed penetration testing exercise on the delibera
 
 **Repository Structure:**
 
-Assignment_3/
+Hack_Your_Self_Assignment_3/
 
 /- Assignment_3_Hack_Yourself.pdf - Contains main PDF
 
