@@ -1,6 +1,6 @@
 # Assignment_3 (Hack Yourself)
 
-This repository contains a detailed penetration testing exercise on the deliberately insecure web application Hack Yourself First. The main objective is to identify, analyze, and exploit common web application vulnerabilities, including SQL Injection (SQLi), Cross-Site Scripting (XSS), and Access Control weaknesses.
+This repository contains a detailed penetration testing exercise on the deliberately insecure web application Hack Yourself First, on behalf of my Certified Cyber Security Analyst course from ICT Academy of Kerala. The main objective is to identify, analyze, and exploit common web application vulnerabilities, including SQL Injection (SQLi), Cross-Site Scripting (XSS), and Access Control weaknesses.
 
 # Key Objectives
 
