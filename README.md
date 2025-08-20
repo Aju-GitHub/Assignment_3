@@ -6,7 +6,7 @@ This repository contains a detailed penetration testing exercise on the delibera
 
 Assignment_3/
 
-/- Assignment_3_Hack_Yourself.pdf - Containd main PDF
+/- Assignment_3_Hack_Yourself.pdf - Contains main PDF
 
 /- README.md                      - Documentation
 
